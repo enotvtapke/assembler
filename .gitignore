@@ -1,5 +1,7 @@
-.idea
-*.iml
+*.out
 *.o
 *.obj
-*.out
+*.exe
+.github
+/cmake-build-debug
+/.idea
